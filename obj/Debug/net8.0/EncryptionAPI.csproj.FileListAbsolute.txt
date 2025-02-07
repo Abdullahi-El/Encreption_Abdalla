@@ -1,0 +1,8 @@
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.csproj.AssemblyReference.cache
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.AssemblyInfoInputs.cache
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.AssemblyInfo.cs
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.csproj.CoreCompileInputs.cache
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\EncryptionAPI\obj\Debug\net8.0\EncryptionAPI.sourcelink.json
